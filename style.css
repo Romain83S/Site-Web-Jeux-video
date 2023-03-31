@@ -1,0 +1,28 @@
+/* Tout seras avec un fond orange, une couleur d'écritur cyans foncé et une police dibik Iso */
+body {
+    background-color: sandybrown ;
+    color: darkcyan;
+    font-family: 'Rubik Iso', cursive ;
+}
+
+/* Les titre h1 serons aligné au centre, avec une couleur en fond verte et un couleur de police rouge */
+h1 {
+    text-align: center ;
+    background-color: green ;
+    color: red
+}
+
+/* Les paragraphe serons écris en noir */
+p {
+    color: black;
+}
+
+/* Les unordonade liste serons écris en noir */
+ul {
+    color: black;
+}
+
+/* Les ordonade liste serons écris en noir */
+ol {
+    color: black;
+}
